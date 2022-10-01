@@ -1,0 +1,15 @@
+Q1. What is cryptography?
+Q2. What is traceroute? Mention its uses.
+Q3. What is a firewall, and why is it used?
+Q4. What is a three-way handshake?
+Q5. What is a response code? List them.
+Q6. What is the CIA triad?
+Q7. What are the common cyberattacks?
+Q8. What is data leakage?
+Q9. Explain port scanning.
+Q10. Explain brute force attack and the ways to prevent it.
+Q11. What is the difference between hashing and encryption?
+Q12. Explain the difference between vulnerability assessment (VA) and penetration testing (PT)?
+Q13. Mention the steps to set up a firewall.
+Q14. What is SSL encryption?
+Q15. What steps will you take to secure a server?
